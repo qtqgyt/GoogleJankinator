@@ -1,0 +1,3 @@
+asyncio
+deep_translator
+tqdm
